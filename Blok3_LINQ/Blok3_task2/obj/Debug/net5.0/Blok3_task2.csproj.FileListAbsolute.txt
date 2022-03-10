@@ -1,0 +1,16 @@
+C:\Users\Professional\Documents\C#_Testing\Blok3_LINQ\Blok3_task2\bin\Debug\net5.0\Blok3_task2.exe
+C:\Users\Professional\Documents\C#_Testing\Blok3_LINQ\Blok3_task2\bin\Debug\net5.0\Blok3_task2.deps.json
+C:\Users\Professional\Documents\C#_Testing\Blok3_LINQ\Blok3_task2\bin\Debug\net5.0\Blok3_task2.runtimeconfig.json
+C:\Users\Professional\Documents\C#_Testing\Blok3_LINQ\Blok3_task2\bin\Debug\net5.0\Blok3_task2.runtimeconfig.dev.json
+C:\Users\Professional\Documents\C#_Testing\Blok3_LINQ\Blok3_task2\bin\Debug\net5.0\Blok3_task2.dll
+C:\Users\Professional\Documents\C#_Testing\Blok3_LINQ\Blok3_task2\bin\Debug\net5.0\ref\Blok3_task2.dll
+C:\Users\Professional\Documents\C#_Testing\Blok3_LINQ\Blok3_task2\bin\Debug\net5.0\Blok3_task2.pdb
+C:\Users\Professional\Documents\C#_Testing\Blok3_LINQ\Blok3_task2\obj\Debug\net5.0\Blok3_task2.csproj.AssemblyReference.cache
+C:\Users\Professional\Documents\C#_Testing\Blok3_LINQ\Blok3_task2\obj\Debug\net5.0\Blok3_task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Documents\C#_Testing\Blok3_LINQ\Blok3_task2\obj\Debug\net5.0\Blok3_task2.AssemblyInfoInputs.cache
+C:\Users\Professional\Documents\C#_Testing\Blok3_LINQ\Blok3_task2\obj\Debug\net5.0\Blok3_task2.AssemblyInfo.cs
+C:\Users\Professional\Documents\C#_Testing\Blok3_LINQ\Blok3_task2\obj\Debug\net5.0\Blok3_task2.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Documents\C#_Testing\Blok3_LINQ\Blok3_task2\obj\Debug\net5.0\Blok3_task2.dll
+C:\Users\Professional\Documents\C#_Testing\Blok3_LINQ\Blok3_task2\obj\Debug\net5.0\ref\Blok3_task2.dll
+C:\Users\Professional\Documents\C#_Testing\Blok3_LINQ\Blok3_task2\obj\Debug\net5.0\Blok3_task2.pdb
+C:\Users\Professional\Documents\C#_Testing\Blok3_LINQ\Blok3_task2\obj\Debug\net5.0\Blok3_task2.genruntimeconfig.cache

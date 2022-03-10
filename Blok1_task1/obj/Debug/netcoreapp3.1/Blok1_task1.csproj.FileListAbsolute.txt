@@ -1,0 +1,14 @@
+C:\Users\Professional\Documents\C#_Testing\Blok1_task1\bin\Debug\netcoreapp3.1\Blok1_task1.exe
+C:\Users\Professional\Documents\C#_Testing\Blok1_task1\bin\Debug\netcoreapp3.1\Blok1_task1.deps.json
+C:\Users\Professional\Documents\C#_Testing\Blok1_task1\bin\Debug\netcoreapp3.1\Blok1_task1.runtimeconfig.json
+C:\Users\Professional\Documents\C#_Testing\Blok1_task1\bin\Debug\netcoreapp3.1\Blok1_task1.runtimeconfig.dev.json
+C:\Users\Professional\Documents\C#_Testing\Blok1_task1\bin\Debug\netcoreapp3.1\Blok1_task1.dll
+C:\Users\Professional\Documents\C#_Testing\Blok1_task1\bin\Debug\netcoreapp3.1\Blok1_task1.pdb
+C:\Users\Professional\Documents\C#_Testing\Blok1_task1\obj\Debug\netcoreapp3.1\Blok1_task1.csproj.AssemblyReference.cache
+C:\Users\Professional\Documents\C#_Testing\Blok1_task1\obj\Debug\netcoreapp3.1\Blok1_task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Documents\C#_Testing\Blok1_task1\obj\Debug\netcoreapp3.1\Blok1_task1.AssemblyInfoInputs.cache
+C:\Users\Professional\Documents\C#_Testing\Blok1_task1\obj\Debug\netcoreapp3.1\Blok1_task1.AssemblyInfo.cs
+C:\Users\Professional\Documents\C#_Testing\Blok1_task1\obj\Debug\netcoreapp3.1\Blok1_task1.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Documents\C#_Testing\Blok1_task1\obj\Debug\netcoreapp3.1\Blok1_task1.dll
+C:\Users\Professional\Documents\C#_Testing\Blok1_task1\obj\Debug\netcoreapp3.1\Blok1_task1.pdb
+C:\Users\Professional\Documents\C#_Testing\Blok1_task1\obj\Debug\netcoreapp3.1\Blok1_task1.genruntimeconfig.cache

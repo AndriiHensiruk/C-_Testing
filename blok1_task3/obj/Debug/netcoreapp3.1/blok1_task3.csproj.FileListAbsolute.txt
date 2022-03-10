@@ -1,0 +1,14 @@
+C:\Users\Professional\Documents\C#_Testing\blok1_task3\bin\Debug\netcoreapp3.1\blok1_task3.exe
+C:\Users\Professional\Documents\C#_Testing\blok1_task3\bin\Debug\netcoreapp3.1\blok1_task3.deps.json
+C:\Users\Professional\Documents\C#_Testing\blok1_task3\bin\Debug\netcoreapp3.1\blok1_task3.runtimeconfig.json
+C:\Users\Professional\Documents\C#_Testing\blok1_task3\bin\Debug\netcoreapp3.1\blok1_task3.runtimeconfig.dev.json
+C:\Users\Professional\Documents\C#_Testing\blok1_task3\bin\Debug\netcoreapp3.1\blok1_task3.dll
+C:\Users\Professional\Documents\C#_Testing\blok1_task3\bin\Debug\netcoreapp3.1\blok1_task3.pdb
+C:\Users\Professional\Documents\C#_Testing\blok1_task3\obj\Debug\netcoreapp3.1\blok1_task3.csproj.AssemblyReference.cache
+C:\Users\Professional\Documents\C#_Testing\blok1_task3\obj\Debug\netcoreapp3.1\blok1_task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Documents\C#_Testing\blok1_task3\obj\Debug\netcoreapp3.1\blok1_task3.AssemblyInfoInputs.cache
+C:\Users\Professional\Documents\C#_Testing\blok1_task3\obj\Debug\netcoreapp3.1\blok1_task3.AssemblyInfo.cs
+C:\Users\Professional\Documents\C#_Testing\blok1_task3\obj\Debug\netcoreapp3.1\blok1_task3.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Documents\C#_Testing\blok1_task3\obj\Debug\netcoreapp3.1\blok1_task3.dll
+C:\Users\Professional\Documents\C#_Testing\blok1_task3\obj\Debug\netcoreapp3.1\blok1_task3.pdb
+C:\Users\Professional\Documents\C#_Testing\blok1_task3\obj\Debug\netcoreapp3.1\blok1_task3.genruntimeconfig.cache

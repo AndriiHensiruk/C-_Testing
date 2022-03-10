@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Blok1_task5/1.0.0": {
+        "runtime": {
+          "Blok1_task5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blok1_task5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

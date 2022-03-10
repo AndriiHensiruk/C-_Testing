@@ -1,0 +1,16 @@
+C:\Users\Professional\Documents\C#_Testing\Blok2_OOP\blok2_task3\obj\Debug\net5.0\blok2_task3.csproj.AssemblyReference.cache
+C:\Users\Professional\Documents\C#_Testing\Blok2_OOP\blok2_task3\obj\Debug\net5.0\blok2_task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Documents\C#_Testing\Blok2_OOP\blok2_task3\obj\Debug\net5.0\blok2_task3.AssemblyInfoInputs.cache
+C:\Users\Professional\Documents\C#_Testing\Blok2_OOP\blok2_task3\obj\Debug\net5.0\blok2_task3.AssemblyInfo.cs
+C:\Users\Professional\Documents\C#_Testing\Blok2_OOP\blok2_task3\obj\Debug\net5.0\blok2_task3.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Documents\C#_Testing\Blok2_OOP\blok2_task3\bin\Debug\net5.0\blok2_task3.exe
+C:\Users\Professional\Documents\C#_Testing\Blok2_OOP\blok2_task3\bin\Debug\net5.0\blok2_task3.deps.json
+C:\Users\Professional\Documents\C#_Testing\Blok2_OOP\blok2_task3\bin\Debug\net5.0\blok2_task3.runtimeconfig.json
+C:\Users\Professional\Documents\C#_Testing\Blok2_OOP\blok2_task3\bin\Debug\net5.0\blok2_task3.runtimeconfig.dev.json
+C:\Users\Professional\Documents\C#_Testing\Blok2_OOP\blok2_task3\bin\Debug\net5.0\blok2_task3.dll
+C:\Users\Professional\Documents\C#_Testing\Blok2_OOP\blok2_task3\bin\Debug\net5.0\ref\blok2_task3.dll
+C:\Users\Professional\Documents\C#_Testing\Blok2_OOP\blok2_task3\bin\Debug\net5.0\blok2_task3.pdb
+C:\Users\Professional\Documents\C#_Testing\Blok2_OOP\blok2_task3\obj\Debug\net5.0\blok2_task3.dll
+C:\Users\Professional\Documents\C#_Testing\Blok2_OOP\blok2_task3\obj\Debug\net5.0\ref\blok2_task3.dll
+C:\Users\Professional\Documents\C#_Testing\Blok2_OOP\blok2_task3\obj\Debug\net5.0\blok2_task3.pdb
+C:\Users\Professional\Documents\C#_Testing\Blok2_OOP\blok2_task3\obj\Debug\net5.0\blok2_task3.genruntimeconfig.cache
